@@ -130,7 +130,7 @@ GITHUB : NOT FOUND
 TYPE OF TOOL : PAID
 VERSION : 0.1
 \033[1;37m═══════════════════════════════════════════════
-\033[92;1m            WELCOME TO SATAN TOOL         
+\033[92;1m            WELCOME TO DARK TOOL         
 \033[92;1m                 PAID TOOL \033[1;37m√ 
 \033[1;37m═══════════════════════════════════════════════""")   
 
